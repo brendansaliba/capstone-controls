@@ -12,7 +12,7 @@
 #include <PWMServo.h> //commanding any extra actuators(servos, etc)
 #include <Servo.h> //redundant because fuck this
 
-#include "src/MPU6050/MPU6050.h"
+#include "gyro/MPU6050/MPU6050.h"
 MPU6050 mpu6050;
 
 //========================================================================================================================//
